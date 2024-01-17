@@ -1,2 +1,2 @@
 # Agecalculator--project
-it is an age calculator peoject
+it is an age calculator project
